@@ -45,6 +45,7 @@ body{
 }
 
 
-.form input:hover{
-    opacity: 6px;
+.form button:hover{
+    transform: rotate(360deg);
+    transition: all 500ms;
 }
